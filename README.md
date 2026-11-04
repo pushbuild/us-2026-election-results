@@ -71,7 +71,7 @@ States not listed did not publish a machine-readable results feed we could read.
 sources named above; collection is automated, so check a figure against the state's own site before relying on it.
 Pushbuild is not affiliated with any election office.
 
-The same data, live and filterable, is available as an API: [Election Night Results API](https://api.pushbuild.com/election-night-results),
+The same data, live and filterable, is available as an API: [Election Night Results API](https://pushbuild.com/apis/election-night-results.html) (endpoint `https://api.pushbuild.com/election-night-results/run`),
 and as pages at [pushbuild.com/apis/elections](https://pushbuild.com/apis/elections/).
 
 License: CC0 1.0.
