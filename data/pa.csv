@@ -1,0 +1,407 @@
+state,level,county,contest,candidate,party,votes,pct,contestTotalVotes,precinctsReporting,precinctsTotal,source,sourceUrl,sourceUpdatedAt,fetchedAt
+PA,state,,Governor,"Josh Shapiro / Davis, Austin",DEM,2990820,60.2849,4961146,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Governor,"Stacy Garrity / Richey, Jason L",REP,1906024,38.419,4961146,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Governor,"Ken Krawchuk / Thomas, John C",LIB,64302,1.2961,4961146,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 1,Bob Harvie,DEM,188011,52.7408,356481,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 1,Brian Fitzpatrick,REP,168470,47.2592,356481,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 10,Janelle Stelson,DEM,173845,55.031,315904,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 10,Scott Perry,REP,142059,44.969,315904,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 11,Lloyd K Smucker,REP,167322,55.5601,301155,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 11,Nancy Mannion,DEM,133833,44.4399,301155,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 12,Summer Lee,DEM,193488,65.3894,295901,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 12,James Hayes,REP,102413,34.6106,295901,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 13,John Joyce,REP,189426,67.573,280328,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 13,Beth Farnham,DEM,90902,32.427,280328,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 14,Guy Reschenthaler,REP,158743,57.6221,275490,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 14,Alan Bradstock,DEM,116747,42.3779,275490,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 15,Glenn Gt Thompson,REP,170977,63.9267,267458,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 15,Ray Bilger,DEM,96481,36.0733,267458,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 16,Mike Kelly,REP,154125,53.9427,285720,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 16,Justin Wagner,DEM,131595,46.0573,285720,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 17,Chris Deluzio,DEM,207711,62.8228,330630,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 17,Tony Guy,REP,122919,37.1772,330630,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 2,Brendan F Boyle,DEM,142142,80.499,176576,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 2,Jessica Arriaga,REP,34434,19.501,176576,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 3,Chris Rabb,DEM,245020,93.6148,261732,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 3,Dennis Mahoney,TIP,16712,6.3852,261732,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 4,Madeleine Dean,DEM,231425,67.1013,344889,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 4,Aurora Stuski,REP,113464,32.8987,344889,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 5,Mary Gay Scanlon,DEM,212884,72.0232,295577,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 5,Nick Manganaro,REP,82693,27.9768,295577,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 6,Chrissy Houlahan,DEM,198715,64.3066,309012,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 6,Marty Young,REP,110297,35.6934,309012,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 7,Bob Brooks,DEM,164370,56.0942,293025,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 7,Ryan Mackenzie,REP,128655,43.9058,293025,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 8,Paige Cognetti,DEM,152583,54.365,280664,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 8,Rob Bresnahan Jr,REP,128081,45.635,280664,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 9,Dan Meuser,REP,165216,61.7219,267678,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,state,,Representative in Congress District 9,Rachel Wallace,DEM,102462,38.2781,267678,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Adams,Governor,"Stacy Garrity / Richey, Jason L",REP,22738,53.6059,42417,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Adams,Governor,"Josh Shapiro / Davis, Austin",DEM,18995,44.7816,42417,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Adams,Governor,"Ken Krawchuk / Thomas, John C",LIB,684,1.6126,42417,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Adams,Representative in Congress District 13,John Joyce,REP,25773,60.751,42424,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Adams,Representative in Congress District 13,Beth Farnham,DEM,16651,39.249,42424,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Allegheny,Governor,"Josh Shapiro / Davis, Austin",DEM,367885,71.2961,515996,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Allegheny,Governor,"Stacy Garrity / Richey, Jason L",REP,142598,27.6355,515996,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Allegheny,Governor,"Ken Krawchuk / Thomas, John C",LIB,5513,1.0684,515996,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Allegheny,Representative in Congress District 12,Summer Lee,DEM,173020,69.8261,247787,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Allegheny,Representative in Congress District 12,James Hayes,REP,74767,30.1739,247787,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Allegheny,Representative in Congress District 17,Chris Deluzio,DEM,175732,66.1846,265518,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Allegheny,Representative in Congress District 17,Tony Guy,REP,89786,33.8154,265518,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Armstrong,Governor,"Stacy Garrity / Richey, Jason L",REP,15401,64.3021,23951,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Armstrong,Governor,"Josh Shapiro / Davis, Austin",DEM,8124,33.9193,23951,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Armstrong,Governor,"Ken Krawchuk / Thomas, John C",LIB,426,1.7786,23951,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Armstrong,Representative in Congress District 15,Glenn Gt Thompson,REP,16757,70.113,23900,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Armstrong,Representative in Congress District 15,Ray Bilger,DEM,7143,29.887,23900,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Beaver,Governor,"Josh Shapiro / Davis, Austin",DEM,33827,52.2014,64801,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Beaver,Governor,"Stacy Garrity / Richey, Jason L",REP,29864,46.0857,64801,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Beaver,Governor,"Ken Krawchuk / Thomas, John C",LIB,1110,1.7129,64801,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Beaver,Representative in Congress District 17,Tony Guy,REP,33133,50.8862,65112,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Beaver,Representative in Congress District 17,Chris Deluzio,DEM,31979,49.1138,65112,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Bedford,Governor,"Stacy Garrity / Richey, Jason L",REP,14045,74.45,18865,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Bedford,Governor,"Josh Shapiro / Davis, Austin",DEM,4556,24.1505,18865,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Bedford,Governor,"Ken Krawchuk / Thomas, John C",LIB,264,1.3994,18865,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Bedford,Representative in Congress District 13,John Joyce,REP,15197,80.6079,18853,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Bedford,Representative in Congress District 13,Beth Farnham,DEM,3656,19.3921,18853,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Berks,Governor,"Josh Shapiro / Davis, Austin",DEM,79238,55.4667,142857,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Berks,Governor,"Stacy Garrity / Richey, Jason L",REP,61518,43.0626,142857,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Berks,Governor,"Ken Krawchuk / Thomas, John C",LIB,2101,1.4707,142857,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Berks,Representative in Congress District 4,Aurora Stuski,REP,27050,50.2975,53780,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Berks,Representative in Congress District 4,Madeleine Dean,DEM,26730,49.7025,53780,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Berks,Representative in Congress District 6,Chrissy Houlahan,DEM,40616,61.3841,66167,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Berks,Representative in Congress District 6,Marty Young,REP,25551,38.6159,66167,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Berks,Representative in Congress District 9,Dan Meuser,REP,13350,61.1236,21841,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Berks,Representative in Congress District 9,Rachel Wallace,DEM,8491,38.8764,21841,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Blair,Governor,"Stacy Garrity / Richey, Jason L",REP,26780,61.2268,43739,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Blair,Governor,"Josh Shapiro / Davis, Austin",DEM,16377,37.4426,43739,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Blair,Governor,"Ken Krawchuk / Thomas, John C",LIB,582,1.3306,43739,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Blair,Representative in Congress District 13,John Joyce,REP,29177,66.7758,43694,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Blair,Representative in Congress District 13,Beth Farnham,DEM,14517,33.2242,43694,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Bradford,Governor,"Stacy Garrity / Richey, Jason L",REP,13619,65.2001,20888,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Bradford,Governor,"Josh Shapiro / Davis, Austin",DEM,6980,33.4163,20888,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Bradford,Governor,"Ken Krawchuk / Thomas, John C",LIB,289,1.3836,20888,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Bradford,Representative in Congress District 9,Dan Meuser,REP,14135,68.0778,20763,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Bradford,Representative in Congress District 9,Rachel Wallace,DEM,6628,31.9222,20763,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Bucks,Governor,"Josh Shapiro / Davis, Austin",DEM,189131,62.2869,303645,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Bucks,Governor,"Stacy Garrity / Richey, Jason L",REP,111048,36.5717,303645,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Bucks,Governor,"Ken Krawchuk / Thomas, John C",LIB,3466,1.1415,303645,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Bucks,Representative in Congress District 1,Bob Harvie,DEM,158832,52.6689,301567,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Bucks,Representative in Congress District 1,Brian Fitzpatrick,REP,142735,47.3311,301567,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Butler,Governor,"Stacy Garrity / Richey, Jason L",REP,45214,52.9128,85450,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Butler,Governor,"Josh Shapiro / Davis, Austin",DEM,38955,45.5881,85450,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Butler,Governor,"Ken Krawchuk / Thomas, John C",LIB,1281,1.4991,85450,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Butler,Representative in Congress District 16,Mike Kelly,REP,50059,58.5938,85434,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Butler,Representative in Congress District 16,Justin Wagner,DEM,35375,41.4062,85434,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Cambria,Governor,"Stacy Garrity / Richey, Jason L",REP,26993,55.9719,48226,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Cambria,Governor,"Josh Shapiro / Davis, Austin",DEM,20431,42.3651,48226,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Cambria,Governor,"Ken Krawchuk / Thomas, John C",LIB,802,1.663,48226,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Cambria,Representative in Congress District 13,John Joyce,REP,30660,63.5968,48210,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Cambria,Representative in Congress District 13,Beth Farnham,DEM,17550,36.4032,48210,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Cameron,Governor,"Stacy Garrity / Richey, Jason L",REP,1043,64.7826,1610,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Cameron,Governor,"Josh Shapiro / Davis, Austin",DEM,536,33.2919,1610,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Cameron,Governor,"Ken Krawchuk / Thomas, John C",LIB,31,1.9255,1610,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Cameron,Representative in Congress District 15,Glenn Gt Thompson,REP,1180,73.0198,1616,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Cameron,Representative in Congress District 15,Ray Bilger,DEM,436,26.9802,1616,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Carbon,Governor,"Stacy Garrity / Richey, Jason L",REP,12812,52.3773,24461,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Carbon,Governor,"Josh Shapiro / Davis, Austin",DEM,11135,45.5214,24461,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Carbon,Governor,"Ken Krawchuk / Thomas, John C",LIB,514,2.1013,24461,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Carbon,Representative in Congress District 7,Ryan Mackenzie,REP,14661,60.0615,24410,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Carbon,Representative in Congress District 7,Bob Brooks,DEM,9749,39.9385,24410,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Centre,Governor,"Josh Shapiro / Davis, Austin",DEM,34292,60.4755,56704,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Centre,Governor,"Stacy Garrity / Richey, Jason L",REP,21614,38.1172,56704,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Centre,Governor,"Ken Krawchuk / Thomas, John C",LIB,798,1.4073,56704,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Centre,Representative in Congress District 15,Ray Bilger,DEM,32234,56.813,56737,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Centre,Representative in Congress District 15,Glenn Gt Thompson,REP,24503,43.187,56737,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Chester,Governor,"Josh Shapiro / Davis, Austin",DEM,164083,67.7039,242354,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Chester,Governor,"Stacy Garrity / Richey, Jason L",REP,75744,31.2535,242354,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Chester,Governor,"Ken Krawchuk / Thomas, John C",LIB,2527,1.0427,242354,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Chester,Representative in Congress District 5,Mary Gay Scanlon,DEM,0,0.0,0,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Chester,Representative in Congress District 5,Nick Manganaro,REP,0,0.0,0,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Chester,Representative in Congress District 6,Chrissy Houlahan,DEM,158099,65.1028,242845,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Chester,Representative in Congress District 6,Marty Young,REP,84746,34.8972,242845,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Clarion,Governor,"Stacy Garrity / Richey, Jason L",REP,8280,64.4057,12856,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Clarion,Governor,"Josh Shapiro / Davis, Austin",DEM,4377,34.0464,12856,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Clarion,Governor,"Ken Krawchuk / Thomas, John C",LIB,199,1.5479,12856,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Clarion,Representative in Congress District 15,Glenn Gt Thompson,REP,9262,71.8374,12893,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Clarion,Representative in Congress District 15,Ray Bilger,DEM,3631,28.1626,12893,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Clearfield,Governor,"Stacy Garrity / Richey, Jason L",REP,17232,63.9691,26938,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Clearfield,Governor,"Josh Shapiro / Davis, Austin",DEM,9232,34.2713,26938,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Clearfield,Governor,"Ken Krawchuk / Thomas, John C",LIB,474,1.7596,26938,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Clearfield,Representative in Congress District 15,Glenn Gt Thompson,REP,19217,71.3617,26929,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Clearfield,Representative in Congress District 15,Ray Bilger,DEM,7712,28.6383,26929,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Clinton,Governor,"Stacy Garrity / Richey, Jason L",REP,7371,58.2688,12650,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Clinton,Governor,"Josh Shapiro / Davis, Austin",DEM,5106,40.3636,12650,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Clinton,Governor,"Ken Krawchuk / Thomas, John C",LIB,173,1.3676,12650,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Clinton,Representative in Congress District 15,Glenn Gt Thompson,REP,8139,64.5235,12614,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Clinton,Representative in Congress District 15,Ray Bilger,DEM,4475,35.4765,12614,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Columbia,Governor,"Stacy Garrity / Richey, Jason L",REP,11784,52.4993,22446,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Columbia,Governor,"Josh Shapiro / Davis, Austin",DEM,10354,46.1285,22446,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Columbia,Governor,"Ken Krawchuk / Thomas, John C",LIB,308,1.3722,22446,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Columbia,Representative in Congress District 9,Dan Meuser,REP,13220,59.0469,22389,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Columbia,Representative in Congress District 9,Rachel Wallace,DEM,9169,40.9531,22389,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Crawford,Governor,"Stacy Garrity / Richey, Jason L",REP,17089,59.3987,28770,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Crawford,Governor,"Josh Shapiro / Davis, Austin",DEM,11212,38.9712,28770,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Crawford,Governor,"Ken Krawchuk / Thomas, John C",LIB,469,1.6302,28770,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Crawford,Representative in Congress District 16,Mike Kelly,REP,18346,63.8766,28721,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Crawford,Representative in Congress District 16,Justin Wagner,DEM,10375,36.1234,28721,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Cumberland,Governor,"Josh Shapiro / Davis, Austin",DEM,64915,56.3371,115226,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Cumberland,Governor,"Stacy Garrity / Richey, Jason L",REP,48200,41.8308,115226,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Cumberland,Governor,"Ken Krawchuk / Thomas, John C",LIB,2111,1.8321,115226,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Cumberland,Representative in Congress District 10,Janelle Stelson,DEM,58883,54.1403,108760,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Cumberland,Representative in Congress District 10,Scott Perry,REP,49877,45.8597,108760,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Cumberland,Representative in Congress District 13,John Joyce,REP,4994,62.6914,7966,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Cumberland,Representative in Congress District 13,Beth Farnham,DEM,2972,37.3086,7966,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Dauphin,Governor,"Josh Shapiro / Davis, Austin",DEM,72182,63.1088,114377,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Dauphin,Governor,"Stacy Garrity / Richey, Jason L",REP,40163,35.1146,114377,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Dauphin,Governor,"Ken Krawchuk / Thomas, John C",LIB,2032,1.7766,114377,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Dauphin,Representative in Congress District 10,Janelle Stelson,DEM,68655,60.1382,114162,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Dauphin,Representative in Congress District 10,Scott Perry,REP,45507,39.8618,114162,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Delaware,Governor,"Josh Shapiro / Davis, Austin",DEM,169689,72.512,234015,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Delaware,Governor,"Stacy Garrity / Richey, Jason L",REP,62219,26.5876,234015,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Delaware,Governor,"Ken Krawchuk / Thomas, John C",LIB,2107,0.9004,234015,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Delaware,Representative in Congress District 5,Mary Gay Scanlon,DEM,162736,69.6623,233607,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Delaware,Representative in Congress District 5,Nick Manganaro,REP,70871,30.3377,233607,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Elk,Governor,"Stacy Garrity / Richey, Jason L",REP,7174,61.5108,11663,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Elk,Governor,"Josh Shapiro / Davis, Austin",DEM,4279,36.6887,11663,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Elk,Governor,"Ken Krawchuk / Thomas, John C",LIB,210,1.8006,11663,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Elk,Representative in Congress District 15,Glenn Gt Thompson,REP,8046,68.9697,11666,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Elk,Representative in Congress District 15,Ray Bilger,DEM,3620,31.0303,11666,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Erie,Governor,"Josh Shapiro / Davis, Austin",DEM,57925,61.2678,94544,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Erie,Governor,"Stacy Garrity / Richey, Jason L",REP,35344,37.3837,94544,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Erie,Governor,"Ken Krawchuk / Thomas, John C",LIB,1275,1.3486,94544,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Erie,Representative in Congress District 16,Justin Wagner,DEM,53944,57.0933,94484,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Erie,Representative in Congress District 16,Mike Kelly,REP,40540,42.9067,94484,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Fayette,Governor,"Stacy Garrity / Richey, Jason L",REP,21238,55.0735,38563,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Fayette,Governor,"Josh Shapiro / Davis, Austin",DEM,16831,43.6455,38563,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Fayette,Governor,"Ken Krawchuk / Thomas, John C",LIB,494,1.281,38563,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Fayette,Representative in Congress District 14,Guy Reschenthaler,REP,22712,59.1012,38429,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Fayette,Representative in Congress District 14,Alan Bradstock,DEM,15717,40.8988,38429,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Forest,Governor,"Stacy Garrity / Richey, Jason L",REP,1123,60.0856,1869,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Forest,Governor,"Josh Shapiro / Davis, Austin",DEM,709,37.9347,1869,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Forest,Governor,"Ken Krawchuk / Thomas, John C",LIB,37,1.9797,1869,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Forest,Representative in Congress District 15,Glenn Gt Thompson,REP,1271,68.0407,1868,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Forest,Representative in Congress District 15,Ray Bilger,DEM,597,31.9593,1868,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Franklin,Governor,"Stacy Garrity / Richey, Jason L",REP,34718,60.8437,57061,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Franklin,Governor,"Josh Shapiro / Davis, Austin",DEM,21440,37.5738,57061,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Franklin,Governor,"Ken Krawchuk / Thomas, John C",LIB,903,1.5825,57061,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Franklin,Representative in Congress District 13,John Joyce,REP,38199,66.9641,57044,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Franklin,Representative in Congress District 13,Beth Farnham,DEM,18845,33.0359,57044,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Fulton,Governor,"Stacy Garrity / Richey, Jason L",REP,3939,78.5757,5013,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Fulton,Governor,"Josh Shapiro / Davis, Austin",DEM,1002,19.988,5013,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Fulton,Governor,"Ken Krawchuk / Thomas, John C",LIB,72,1.4363,5013,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Fulton,Representative in Congress District 13,John Joyce,REP,4170,82.5743,5050,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Fulton,Representative in Congress District 13,Beth Farnham,DEM,880,17.4257,5050,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Greene,Governor,"Stacy Garrity / Richey, Jason L",REP,6171,56.2022,10980,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Greene,Governor,"Josh Shapiro / Davis, Austin",DEM,4566,41.5847,10980,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Greene,Governor,"Ken Krawchuk / Thomas, John C",LIB,243,2.2131,10980,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Greene,Representative in Congress District 14,Guy Reschenthaler,REP,6757,62.1333,10875,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Greene,Representative in Congress District 14,Alan Bradstock,DEM,4118,37.8667,10875,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Huntingdon,Governor,"Stacy Garrity / Richey, Jason L",REP,10613,66.5601,15945,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Huntingdon,Governor,"Josh Shapiro / Davis, Austin",DEM,5086,31.8971,15945,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Huntingdon,Governor,"Ken Krawchuk / Thomas, John C",LIB,246,1.5428,15945,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Huntingdon,Representative in Congress District 13,John Joyce,REP,11526,72.3359,15934,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Huntingdon,Representative in Congress District 13,Beth Farnham,DEM,4408,27.6641,15934,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Indiana,Governor,"Stacy Garrity / Richey, Jason L",REP,15578,55.9273,27854,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Indiana,Governor,"Josh Shapiro / Davis, Austin",DEM,11791,42.3314,27854,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Indiana,Governor,"Ken Krawchuk / Thomas, John C",LIB,485,1.7412,27854,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Indiana,Representative in Congress District 14,Guy Reschenthaler,REP,15268,60.4721,25248,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Indiana,Representative in Congress District 14,Alan Bradstock,DEM,9980,39.5279,25248,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Indiana,Representative in Congress District 15,Glenn Gt Thompson,REP,2046,78.9047,2593,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Indiana,Representative in Congress District 15,Ray Bilger,DEM,547,21.0953,2593,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Jefferson,Governor,"Stacy Garrity / Richey, Jason L",REP,10053,66.8462,15039,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Jefferson,Governor,"Josh Shapiro / Davis, Austin",DEM,4702,31.2654,15039,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Jefferson,Governor,"Ken Krawchuk / Thomas, John C",LIB,284,1.8884,15039,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Jefferson,Representative in Congress District 15,Glenn Gt Thompson,REP,11300,75.0432,15058,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Jefferson,Representative in Congress District 15,Ray Bilger,DEM,3758,24.9568,15058,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Juniata,Governor,"Stacy Garrity / Richey, Jason L",REP,5679,69.1465,8213,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Juniata,Governor,"Josh Shapiro / Davis, Austin",DEM,2389,29.088,8213,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Juniata,Governor,"Ken Krawchuk / Thomas, John C",LIB,145,1.7655,8213,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Juniata,Representative in Congress District 13,John Joyce,REP,6273,76.5,8200,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Juniata,Representative in Congress District 13,Beth Farnham,DEM,1927,23.5,8200,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lackawanna,Governor,"Josh Shapiro / Davis, Austin",DEM,56482,65.6981,85972,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lackawanna,Governor,"Stacy Garrity / Richey, Jason L",REP,28279,32.8933,85972,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lackawanna,Governor,"Ken Krawchuk / Thomas, John C",LIB,1211,1.4086,85972,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lackawanna,Representative in Congress District 8,Paige Cognetti,DEM,52079,60.4459,86158,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lackawanna,Representative in Congress District 8,Rob Bresnahan Jr,REP,34079,39.5541,86158,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lancaster,Governor,"Josh Shapiro / Davis, Austin",DEM,110749,51.5054,215024,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lancaster,Governor,"Stacy Garrity / Richey, Jason L",REP,101321,47.1208,215024,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lancaster,Governor,"Ken Krawchuk / Thomas, John C",LIB,2954,1.3738,215024,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lancaster,Representative in Congress District 11,Lloyd K Smucker,REP,114268,53.1788,214875,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lancaster,Representative in Congress District 11,Nancy Mannion,DEM,100607,46.8212,214875,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lawrence,Governor,"Stacy Garrity / Richey, Jason L",REP,16518,52.8948,31228,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lawrence,Governor,"Josh Shapiro / Davis, Austin",DEM,14219,45.5329,31228,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lawrence,Governor,"Ken Krawchuk / Thomas, John C",LIB,491,1.5723,31228,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lawrence,Representative in Congress District 16,Mike Kelly,REP,18394,58.9136,31222,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lawrence,Representative in Congress District 16,Justin Wagner,DEM,12828,41.0864,31222,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lebanon,Governor,"Stacy Garrity / Richey, Jason L",REP,27031,52.9895,51012,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lebanon,Governor,"Josh Shapiro / Davis, Austin",DEM,23168,45.4168,51012,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lebanon,Governor,"Ken Krawchuk / Thomas, John C",LIB,813,1.5937,51012,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lebanon,Representative in Congress District 9,Dan Meuser,REP,29763,58.376,50985,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lebanon,Representative in Congress District 9,Rachel Wallace,DEM,21222,41.624,50985,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lehigh,Governor,"Josh Shapiro / Davis, Austin",DEM,87250,63.8904,136562,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lehigh,Governor,"Stacy Garrity / Richey, Jason L",REP,47429,34.7307,136562,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lehigh,Governor,"Ken Krawchuk / Thomas, John C",LIB,1883,1.3789,136562,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lehigh,Representative in Congress District 7,Bob Brooks,DEM,80051,58.8355,136059,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lehigh,Representative in Congress District 7,Ryan Mackenzie,REP,56008,41.1645,136059,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Luzerne,Governor,"Josh Shapiro / Davis, Austin",DEM,59444,53.7216,110652,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Luzerne,Governor,"Stacy Garrity / Richey, Jason L",REP,49816,45.0204,110652,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Luzerne,Governor,"Ken Krawchuk / Thomas, John C",LIB,1392,1.258,110652,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Luzerne,Representative in Congress District 8,Paige Cognetti,DEM,48238,51.5017,93663,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Luzerne,Representative in Congress District 8,Rob Bresnahan Jr,REP,45425,48.4983,93663,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Luzerne,Representative in Congress District 9,Dan Meuser,REP,11090,65.816,16850,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Luzerne,Representative in Congress District 9,Rachel Wallace,DEM,5760,34.184,16850,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lycoming,Governor,"Stacy Garrity / Richey, Jason L",REP,24426,60.6179,40295,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lycoming,Governor,"Josh Shapiro / Davis, Austin",DEM,15288,37.9402,40295,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lycoming,Governor,"Ken Krawchuk / Thomas, John C",LIB,581,1.4419,40295,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lycoming,Representative in Congress District 15,Glenn Gt Thompson,REP,11558,73.1195,15807,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lycoming,Representative in Congress District 15,Ray Bilger,DEM,4249,26.8805,15807,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lycoming,Representative in Congress District 9,Dan Meuser,REP,14811,60.6511,24420,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Lycoming,Representative in Congress District 9,Rachel Wallace,DEM,9609,39.3489,24420,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Mckean,Governor,"Stacy Garrity / Richey, Jason L",REP,7943,63.8197,12446,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Mckean,Governor,"Josh Shapiro / Davis, Austin",DEM,4275,34.3484,12446,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Mckean,Governor,"Ken Krawchuk / Thomas, John C",LIB,228,1.8319,12446,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Mckean,Representative in Congress District 15,Glenn Gt Thompson,REP,8551,68.8265,12424,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Mckean,Representative in Congress District 15,Ray Bilger,DEM,3873,31.1735,12424,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Mercer,Governor,"Stacy Garrity / Richey, Jason L",REP,20743,53.5939,38704,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Mercer,Governor,"Josh Shapiro / Davis, Austin",DEM,17355,44.8403,38704,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Mercer,Governor,"Ken Krawchuk / Thomas, John C",LIB,606,1.5657,38704,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Mercer,Representative in Congress District 16,Mike Kelly,REP,22154,57.0921,38804,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Mercer,Representative in Congress District 16,Justin Wagner,DEM,16650,42.9079,38804,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Mifflin,Governor,"Stacy Garrity / Richey, Jason L",REP,9379,65.7023,14275,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Mifflin,Governor,"Josh Shapiro / Davis, Austin",DEM,4619,32.3573,14275,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Mifflin,Governor,"Ken Krawchuk / Thomas, John C",LIB,277,1.9405,14275,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Mifflin,Representative in Congress District 13,John Joyce,REP,10522,73.3854,14338,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Mifflin,Representative in Congress District 13,Beth Farnham,DEM,3816,26.6146,14338,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Monroe,Governor,"Josh Shapiro / Davis, Austin",DEM,36822,60.8176,60545,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Monroe,Governor,"Stacy Garrity / Richey, Jason L",REP,22729,37.5407,60545,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Monroe,Governor,"Ken Krawchuk / Thomas, John C",LIB,994,1.6418,60545,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Monroe,Representative in Congress District 7,Ryan Mackenzie,REP,3149,60.815,5178,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Monroe,Representative in Congress District 7,Bob Brooks,DEM,2029,39.185,5178,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Monroe,Representative in Congress District 8,Paige Cognetti,DEM,33128,60.0482,55169,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Monroe,Representative in Congress District 8,Rob Bresnahan Jr,REP,22041,39.9518,55169,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Montgomery,Governor,"Josh Shapiro / Davis, Austin",DEM,283249,72.5998,390151,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Montgomery,Governor,"Stacy Garrity / Richey, Jason L",REP,103298,26.4764,390151,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Montgomery,Governor,"Ken Krawchuk / Thomas, John C",LIB,3604,0.9237,390151,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Montgomery,Representative in Congress District 1,Bob Harvie,DEM,29179,53.1358,54914,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Montgomery,Representative in Congress District 1,Brian Fitzpatrick,REP,25735,46.8642,54914,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Montgomery,Representative in Congress District 4,Madeleine Dean,DEM,204695,70.3156,291109,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Montgomery,Representative in Congress District 4,Aurora Stuski,REP,86414,29.6844,291109,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Montgomery,Representative in Congress District 5,Mary Gay Scanlon,DEM,34949,80.9623,43167,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Montgomery,Representative in Congress District 5,Nick Manganaro,REP,8218,19.0377,43167,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Montour,Governor,"Stacy Garrity / Richey, Jason L",REP,2935,53.2185,5515,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Montour,Governor,"Josh Shapiro / Davis, Austin",DEM,2467,44.7325,5515,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Montour,Governor,"Ken Krawchuk / Thomas, John C",LIB,113,2.049,5515,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Montour,Representative in Congress District 9,Dan Meuser,REP,3303,59.6964,5533,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Montour,Representative in Congress District 9,Rachel Wallace,DEM,2230,40.3036,5533,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Northampton,Governor,"Josh Shapiro / Davis, Austin",DEM,78288,61.4756,127348,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Northampton,Governor,"Stacy Garrity / Richey, Jason L",REP,47252,37.1046,127348,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Northampton,Governor,"Ken Krawchuk / Thomas, John C",LIB,1808,1.4197,127348,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Northampton,Representative in Congress District 7,Bob Brooks,DEM,72541,56.9494,127378,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Northampton,Representative in Congress District 7,Ryan Mackenzie,REP,54837,43.0506,127378,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Northumberland,Governor,"Stacy Garrity / Richey, Jason L",REP,15953,56.7278,28122,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Northumberland,Governor,"Josh Shapiro / Davis, Austin",DEM,11648,41.4195,28122,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Northumberland,Governor,"Ken Krawchuk / Thomas, John C",LIB,521,1.8526,28122,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Northumberland,Representative in Congress District 9,Dan Meuser,REP,17662,62.919,28071,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Northumberland,Representative in Congress District 9,Rachel Wallace,DEM,10409,37.081,28071,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Perry,Governor,"Stacy Garrity / Richey, Jason L",REP,11105,61.9422,17928,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Perry,Governor,"Josh Shapiro / Davis, Austin",DEM,6417,35.7932,17928,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Perry,Governor,"Ken Krawchuk / Thomas, John C",LIB,406,2.2646,17928,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Perry,Representative in Congress District 13,John Joyce,REP,12458,69.4852,17929,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Perry,Representative in Congress District 13,Beth Farnham,DEM,5471,30.5148,17929,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Philadelphia,Governor,"Josh Shapiro / Davis, Austin",DEM,419507,88.9014,471879,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Philadelphia,Governor,"Stacy Garrity / Richey, Jason L",REP,48585,10.2961,471879,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Philadelphia,Governor,"Ken Krawchuk / Thomas, John C",LIB,3787,0.8025,471879,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Philadelphia,Representative in Congress District 2,Brendan F Boyle,DEM,142142,80.499,176576,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Philadelphia,Representative in Congress District 2,Jessica Arriaga,REP,34434,19.501,176576,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Philadelphia,Representative in Congress District 3,Chris Rabb,DEM,245020,93.6148,261732,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Philadelphia,Representative in Congress District 3,Dennis Mahoney,TIP,16712,6.3852,261732,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Philadelphia,Representative in Congress District 5,Mary Gay Scanlon,DEM,15199,80.8328,18803,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Philadelphia,Representative in Congress District 5,Nick Manganaro,REP,3604,19.1672,18803,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Pike,Governor,"Stacy Garrity / Richey, Jason L",REP,12157,50.3479,24146,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Pike,Governor,"Josh Shapiro / Davis, Austin",DEM,11648,48.2399,24146,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Pike,Governor,"Ken Krawchuk / Thomas, John C",LIB,341,1.4122,24146,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Pike,Representative in Congress District 8,Rob Bresnahan Jr,REP,13229,54.6947,24187,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Pike,Representative in Congress District 8,Paige Cognetti,DEM,10958,45.3053,24187,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Potter,Governor,"Stacy Garrity / Richey, Jason L",REP,4504,72.5048,6212,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Potter,Governor,"Josh Shapiro / Davis, Austin",DEM,1585,25.5151,6212,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Potter,Governor,"Ken Krawchuk / Thomas, John C",LIB,123,1.98,6212,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Potter,Representative in Congress District 15,Glenn Gt Thompson,REP,4845,78.2588,6191,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Potter,Representative in Congress District 15,Ray Bilger,DEM,1346,21.7412,6191,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Schuylkill,Governor,"Stacy Garrity / Richey, Jason L",REP,26812,55.9364,47933,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Schuylkill,Governor,"Josh Shapiro / Davis, Austin",DEM,20248,42.2423,47933,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Schuylkill,Governor,"Ken Krawchuk / Thomas, John C",LIB,873,1.8213,47933,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Schuylkill,Representative in Congress District 9,Dan Meuser,REP,29242,60.7841,48108,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Schuylkill,Representative in Congress District 9,Rachel Wallace,DEM,18866,39.2159,48108,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Snyder,Governor,"Stacy Garrity / Richey, Jason L",REP,8521,62.9367,13539,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Snyder,Governor,"Josh Shapiro / Davis, Austin",DEM,4840,35.7486,13539,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Snyder,Governor,"Ken Krawchuk / Thomas, John C",LIB,178,1.3147,13539,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Snyder,Representative in Congress District 15,Glenn Gt Thompson,REP,9289,68.8737,13487,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Snyder,Representative in Congress District 15,Ray Bilger,DEM,4198,31.1263,13487,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Somerset,Governor,"Stacy Garrity / Richey, Jason L",REP,17758,66.1206,26857,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Somerset,Governor,"Josh Shapiro / Davis, Austin",DEM,8594,31.9991,26857,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Somerset,Governor,"Ken Krawchuk / Thomas, John C",LIB,505,1.8803,26857,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Somerset,Representative in Congress District 13,John Joyce,REP,477,69.5335,686,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Somerset,Representative in Congress District 13,Beth Farnham,DEM,209,30.4665,686,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Somerset,Representative in Congress District 14,Guy Reschenthaler,REP,18899,72.2163,26170,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Somerset,Representative in Congress District 14,Alan Bradstock,DEM,7271,27.7837,26170,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Sullivan,Governor,"Stacy Garrity / Richey, Jason L",REP,1617,61.1573,2644,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Sullivan,Governor,"Josh Shapiro / Davis, Austin",DEM,978,36.9894,2644,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Sullivan,Governor,"Ken Krawchuk / Thomas, John C",LIB,49,1.8533,2644,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Sullivan,Representative in Congress District 9,Dan Meuser,REP,1774,67.0193,2647,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Sullivan,Representative in Congress District 9,Rachel Wallace,DEM,873,32.9807,2647,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Susquehanna,Governor,"Stacy Garrity / Richey, Jason L",REP,9364,61.5001,15226,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Susquehanna,Governor,"Josh Shapiro / Davis, Austin",DEM,5617,36.8908,15226,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Susquehanna,Governor,"Ken Krawchuk / Thomas, John C",LIB,245,1.6091,15226,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Susquehanna,Representative in Congress District 9,Dan Meuser,REP,10082,66.4952,15162,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Susquehanna,Representative in Congress District 9,Rachel Wallace,DEM,5080,33.5048,15162,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Tioga,Governor,"Stacy Garrity / Richey, Jason L",REP,9861,66.9314,14733,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Tioga,Governor,"Josh Shapiro / Davis, Austin",DEM,4602,31.236,14733,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Tioga,Governor,"Ken Krawchuk / Thomas, John C",LIB,270,1.8326,14733,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Tioga,Representative in Congress District 15,Glenn Gt Thompson,REP,10681,72.5267,14727,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Tioga,Representative in Congress District 15,Ray Bilger,DEM,4046,27.4733,14727,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Union,Governor,"Stacy Garrity / Richey, Jason L",REP,7152,50.3237,14212,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Union,Governor,"Josh Shapiro / Davis, Austin",DEM,6893,48.5013,14212,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Union,Governor,"Ken Krawchuk / Thomas, John C",LIB,167,1.1751,14212,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Union,Representative in Congress District 15,Glenn Gt Thompson,REP,7862,55.374,14198,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Union,Representative in Congress District 15,Ray Bilger,DEM,6336,44.626,14198,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Venango,Governor,"Stacy Garrity / Richey, Jason L",REP,10862,60.0974,18074,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Venango,Governor,"Josh Shapiro / Davis, Austin",DEM,6905,38.2041,18074,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Venango,Governor,"Ken Krawchuk / Thomas, John C",LIB,307,1.6986,18074,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Venango,Representative in Congress District 15,Glenn Gt Thompson,REP,7457,67.8711,10987,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Venango,Representative in Congress District 15,Ray Bilger,DEM,3530,32.1289,10987,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Venango,Representative in Congress District 16,Mike Kelly,REP,4632,65.6556,7055,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Venango,Representative in Congress District 16,Justin Wagner,DEM,2423,34.3444,7055,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Warren,Governor,"Stacy Garrity / Richey, Jason L",REP,8215,59.529,13800,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Warren,Governor,"Josh Shapiro / Davis, Austin",DEM,5347,38.7464,13800,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Warren,Governor,"Ken Krawchuk / Thomas, John C",LIB,238,1.7246,13800,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Warren,Representative in Congress District 15,Glenn Gt Thompson,REP,9013,65.4872,13763,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Warren,Representative in Congress District 15,Ray Bilger,DEM,4750,34.5128,13763,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Washington,Governor,"Josh Shapiro / Davis, Austin",DEM,40921,50.321,81320,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Washington,Governor,"Stacy Garrity / Richey, Jason L",REP,39230,48.2415,81320,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Washington,Governor,"Ken Krawchuk / Thomas, John C",LIB,1169,1.4375,81320,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Washington,Representative in Congress District 14,Guy Reschenthaler,REP,42532,52.9703,80294,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Washington,Representative in Congress District 14,Alan Bradstock,DEM,37762,47.0297,80294,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Wayne,Governor,"Stacy Garrity / Richey, Jason L",REP,12152,56.6923,21435,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Wayne,Governor,"Josh Shapiro / Davis, Austin",DEM,8943,41.7215,21435,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Wayne,Governor,"Ken Krawchuk / Thomas, John C",LIB,340,1.5862,21435,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Wayne,Representative in Congress District 8,Rob Bresnahan Jr,REP,13307,61.9305,21487,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Wayne,Representative in Congress District 8,Paige Cognetti,DEM,8180,38.0695,21487,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Westmoreland,Governor,"Stacy Garrity / Richey, Jason L",REP,72489,50.6261,143185,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Westmoreland,Governor,"Josh Shapiro / Davis, Austin",DEM,68698,47.9785,143185,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Westmoreland,Governor,"Ken Krawchuk / Thomas, John C",LIB,1998,1.3954,143185,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Westmoreland,Representative in Congress District 12,James Hayes,REP,27646,57.4594,48114,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Westmoreland,Representative in Congress District 12,Summer Lee,DEM,20468,42.5406,48114,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Westmoreland,Representative in Congress District 14,Guy Reschenthaler,REP,52575,55.6502,94474,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Westmoreland,Representative in Congress District 14,Alan Bradstock,DEM,41899,44.3498,94474,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Wyoming,Governor,"Stacy Garrity / Richey, Jason L",REP,6128,56.2666,10891,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Wyoming,Governor,"Josh Shapiro / Davis, Austin",DEM,4552,41.796,10891,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Wyoming,Governor,"Ken Krawchuk / Thomas, John C",LIB,211,1.9374,10891,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Wyoming,Representative in Congress District 9,Dan Meuser,REP,6784,62.1872,10909,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,Wyoming,Representative in Congress District 9,Rachel Wallace,DEM,4125,37.8128,10909,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,York,Governor,"Stacy Garrity / Richey, Jason L",REP,89461,49.896,179295,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,York,Governor,"Josh Shapiro / Davis, Austin",DEM,86870,48.4509,179295,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,York,Governor,"Ken Krawchuk / Thomas, John C",LIB,2964,1.6531,179295,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,York,Representative in Congress District 10,Scott Perry,REP,46675,50.1979,92982,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,York,Representative in Congress District 10,Janelle Stelson,DEM,46307,49.8021,92982,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,York,Representative in Congress District 11,Lloyd K Smucker,REP,53054,61.4905,86280,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00
+PA,county,York,Representative in Congress District 11,Nancy Mannion,DEM,33226,38.5095,86280,,,Pennsylvania Department of State,https://www.electionreturns.pa.gov/,,2026-11-04T17:16:52+00:00

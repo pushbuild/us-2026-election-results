@@ -1,0 +1,233 @@
+state,level,county,contest,candidate,party,votes,pct,contestTotalVotes,precinctsReporting,precinctsTotal,source,sourceUrl,sourceUpdatedAt,fetchedAt
+SD,state,,Alderman,Rob Schoeneman,NON,499,18.5433,2691,1,1,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Alderman,Brett Bastian,NON,486,18.0602,2691,1,1,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Alderman,Colin Steen,NON,440,16.3508,2691,1,1,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Alderman,Adam Buss,NON,301,11.1854,2691,1,1,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Alderman,Ross Kotewa,NON,263,9.7733,2691,1,1,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Alderman,Edward Clark-Jessen,NON,188,6.9863,2691,1,1,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Alderman,Eric Comes,NON,178,6.6146,2691,1,1,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Alderman,Julie Oeltjen,NON,89,3.3073,2691,1,1,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Alderman,Taylor Fitts,NON,81,3.01,2691,1,1,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Alderman,Nikki Oien,NON,76,2.8242,2691,1,1,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Alderman,Randy Marsh,NON,66,2.4526,2691,1,1,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Alderman,Parker Simons,NON,24,0.8919,2691,1,1,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Attorney General,Lance Russell,REP,193243,100.0,193243,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:14:42 PM,2026-11-04T17:17:10+00:00
+SD,state,,Bond Issue : Armour School District 21-1 Bond,Yes,,367,72.8175,504,10,10,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Bond Issue : Armour School District 21-1 Bond,No,,137,27.1825,504,10,10,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Bond Issue : Harding County School 31-1 Bond,Yes,,401,61.8827,648,8,8,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Bond Issue : Harding County School 31-1 Bond,No,,247,38.1173,648,8,8,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,"Bond Issue : OFFICIAL BALLOT BOND ELECTION RAPID CITY AREA SCHOOL DISTRICT 51-4 MEADE AND PENNINGTON COUNTIES, SOUTH DAKOTA",Yes,,22530,67.3905,33432,47,47,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,"Bond Issue : OFFICIAL BALLOT BOND ELECTION RAPID CITY AREA SCHOOL DISTRICT 51-4 MEADE AND PENNINGTON COUNTIES, SOUTH DAKOTA",No,,10902,32.6095,33432,47,47,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,City Commissioner,Brian J Hunhoff,NON,2998,28.7661,10422,7,7,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,City Commissioner,Ben Brunick,NON,2456,23.5655,10422,7,7,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,City Commissioner,Charlie Gross,NON,2092,20.0729,10422,7,7,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,City Commissioner,Sam Hummel,NON,1862,17.8661,10422,7,7,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,City Commissioner,Chad Skiles,NON,605,5.805,10422,2,2,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,City Commissioner,Paul Garbers,NON,409,3.9244,10422,2,2,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,City Council Member,Al Austreim,NON,2935,28.7013,10226,10,10,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,City Council Member,Lisa Hager,NON,2539,24.8289,10226,10,10,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,City Council Member,Brianna Doran,NON,2234,21.8463,10226,10,10,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,City Council Member,Shawn Hostler,NON,1662,16.2527,10226,10,10,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,City Council Member,Wade Wantoch,NON,688,6.7279,10226,10,10,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,City Council Member,Jacob Richard Johnson,NON,106,1.0366,10226,7,7,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,City Council Member,David R. Carter,NON,62,0.6063,10226,7,7,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Commissioner of School and Public Lands,Brock Greenfield,REP,179727,61.8207,290723,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:14:42 PM,2026-11-04T17:17:10+00:00
+SD,state,,Commissioner of School and Public Lands,Raeann Mettler,DEM,110996,38.1793,290723,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:14:42 PM,2026-11-04T17:17:10+00:00
+SD,state,,Constitutional Amendment I: An Amendment to the South Dakota Constitution that Repeals Expanded Medicaid Coverage if Federal Funding for the Program Drops below 90%.,No,,165391,55.7664,296578,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:28 PM,2026-11-04T17:17:10+00:00
+SD,state,,Constitutional Amendment I: An Amendment to the South Dakota Constitution that Repeals Expanded Medicaid Coverage if Federal Funding for the Program Drops below 90%.,Yes,,131187,44.2336,296578,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:28 PM,2026-11-04T17:17:10+00:00
+SD,state,,Constitutional Amendment J: An Amendment to the South Dakota Constitution Clarifying that an Individual Must Be a Citizen of the United States to be Eligible to Vote.,Yes,,183740,61.5237,298649,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:28 PM,2026-11-04T17:17:10+00:00
+SD,state,,Constitutional Amendment J: An Amendment to the South Dakota Constitution Clarifying that an Individual Must Be a Citizen of the United States to be Eligible to Vote.,No,,114909,38.4763,298649,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:28 PM,2026-11-04T17:17:10+00:00
+SD,state,,Constitutional Amendment K: An Amendment to the South Dakota Constitution Establishing the Trust for Unclaimed Property Fund.,Yes,,178554,60.9362,293018,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:28 PM,2026-11-04T17:17:10+00:00
+SD,state,,Constitutional Amendment K: An Amendment to the South Dakota Constitution Establishing the Trust for Unclaimed Property Fund.,No,,114464,39.0638,293018,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:28 PM,2026-11-04T17:17:10+00:00
+SD,state,,Constitutional Amendment L: An Amendment to the South Dakota Constitution Requiring that a Proposed Constitutional Amendment or Revision Receive an Affirmative Vote of Sixty Percent of the Votes Cast.,No,,171340,57.5944,297494,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:28 PM,2026-11-04T17:17:10+00:00
+SD,state,,Constitutional Amendment L: An Amendment to the South Dakota Constitution Requiring that a Proposed Constitutional Amendment or Revision Receive an Affirmative Vote of Sixty Percent of the Votes Cast.,Yes,,126154,42.4056,297494,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:28 PM,2026-11-04T17:17:10+00:00
+SD,state,,Governor and Lieutenant Governor,Larry Rhoden and Tony Venhuizen,REP,193317,63.4975,304448,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:14:42 PM,2026-11-04T17:17:10+00:00
+SD,state,,Governor and Lieutenant Governor,Dan Ahlers and Steven McCleerey,DEM,111131,36.5025,304448,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:14:42 PM,2026-11-04T17:17:10+00:00
+SD,state,,Public Utilities Commissioner,Don Haggar,REP,174552,60.2425,289749,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:14:42 PM,2026-11-04T17:17:10+00:00
+SD,state,,Public Utilities Commissioner,Frank Kloucek,DEM,115197,39.7575,289749,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:14:42 PM,2026-11-04T17:17:10+00:00
+SD,state,,"Question : OFFICIAL MUNICIPAL ELECTION BALLOT HILL CITY, SOUTH DAKOTA November 3, 2026",Yes,,264,76.9679,343,1,1,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,"Question : OFFICIAL MUNICIPAL ELECTION BALLOT HILL CITY, SOUTH DAKOTA November 3, 2026",No,,79,23.0321,343,1,1,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Question : TEMPORARY ONE PERCENT (1%) MUNICIPAL GROSS RECEIPTS TAX,No,,955,75.6735,1262,7,7,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Question : TEMPORARY ONE PERCENT (1%) MUNICIPAL GROSS RECEIPTS TAX,Yes,,307,24.3265,1262,7,7,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Referendum : REZONING LAND FROM NATURAL RESOURCES TO GENERAL BUSINESS: The following referendum measure was proposed by petition for submission to the voters. This referred measure will not become effective unless approved by majority vote.,Yes,,2884,73.5527,3921,3,3,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Referendum : REZONING LAND FROM NATURAL RESOURCES TO GENERAL BUSINESS: The following referendum measure was proposed by petition for submission to the voters. This referred measure will not become effective unless approved by majority vote.,No,,1037,26.4473,3921,3,3,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Secretary of State,Heather Baxter,REP,172350,58.3954,295143,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:14:42 PM,2026-11-04T17:17:10+00:00
+SD,state,,Secretary of State,Terrence Davis,DEM,106533,36.0954,295143,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:14:42 PM,2026-11-04T17:17:10+00:00
+SD,state,,Secretary of State,Tamara J. Lesnar,LIB,16260,5.5092,295143,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:14:42 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Auditor,Catherine Barranco,REP,182677,62.5516,292042,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:14:42 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Auditor,Tom Cool,DEM,109365,37.4484,292042,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:14:42 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Trish Ladner,REP,7724,1.7521,440838,26,26,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Tim R Goodwin,REP,7387,1.6757,440838,26,26,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Ryan Kohl,REP,6856,1.5552,440838,56,56,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Adam Long,REP,6594,1.4958,440838,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Carrie Sanderson,REP,6324,1.4345,440838,16,16,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Mike Weisgram,REP,6308,1.4309,440838,19,19,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Scott Odenbach,REP,6253,1.4184,440838,11,11,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Jon Nelson,REP,6188,1.4037,440838,33,33,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Fred Deutsch,REP,6131,1.3908,440838,56,56,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Laurie Gill,REP,6123,1.3889,440838,19,19,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Mary J. Fitzgerald,REP,5991,1.359,440838,11,11,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Jack R Kolbeck,REP,5873,1.3322,440838,10,10,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Matt Roby,REP,5825,1.3213,440838,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Curt Massie,REP,5824,1.3211,440838,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Todd Wilkinson,REP,5699,1.2928,440838,33,33,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Ali Rae Horsted,DEM,5584,1.2667,440838,10,10,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Jessica Bahmuller,REP,5580,1.2658,440838,23,23,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Spencer Gosch,REP,5579,1.2655,440838,47,47,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Jim Halverson,REP,5527,1.2537,440838,31,31,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Drew Peterson,REP,5506,1.249,440838,23,23,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Taylor Rae Rehfeldt,REP,5501,1.2479,440838,10,10,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Mike Derby,REP,5453,1.237,440838,8,8,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Daniel Kjos,REP,5446,1.2354,440838,43,43,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Phil Jensen,REP,5403,1.2256,440838,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Lisa Bogue,REP,5355,1.2147,440838,23,23,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Manuel Luschas,REP,5309,1.2043,440838,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,John Hughes,REP,5274,1.1964,440838,10,10,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Erinn Williams,DEM,5258,1.1927,440838,10,10,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Dick Werner,REP,5190,1.1773,440838,47,47,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Gary L Cammack,REP,5160,1.1705,440838,38,38,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Nick Fosness,REP,5144,1.1669,440838,43,43,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Mike Stevens,REP,5105,1.158,440838,8,8,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Marty Overweg,REP,4953,1.1235,440838,31,31,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Becky J Drury,REP,4941,1.1208,440838,8,8,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Jerry Jongeling,REP,4925,1.1172,440838,16,16,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,John Shubeck,REP,4837,1.0972,440838,23,23,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Mellissa Heermann,REP,4699,1.0659,440838,10,10,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Tyler Tordsen,REP,4649,1.0546,440838,10,10,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Gary Deering,REP,4630,1.0503,440838,38,38,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Nick Buchholz,REP,4602,1.0439,440838,16,16,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Chris Kassin,REP,4588,1.0407,440838,17,17,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Tesa Schwans,REP,4575,1.0378,440838,10,10,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Jeff Bathke,REP,4559,1.0342,440838,17,17,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Roger DeGroot,REP,4457,1.011,440838,10,10,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Lana Greenfield,REP,4376,0.9927,440838,21,21,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Elliott Neff,REP,4365,0.9902,440838,16,16,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Spencer Sommers,REP,4354,0.9877,440838,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Kevin Van Diepen,REP,4318,0.9795,440838,21,21,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Stephanie Arne,DEM,4270,0.9686,440838,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Megan Tschetter,REP,4254,0.965,440838,10,10,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Sonja Mentzer,DEM,4234,0.9604,440838,9,9,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Brian Mulder,REP,4190,0.9505,440838,9,9,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Blake Rife,DEM,4187,0.9498,440838,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Kathleen Brudvig,DEM,4182,0.9486,440838,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Terry Sabers,REP,4167,0.9452,440838,17,17,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Byron I. Callies,REP,4137,0.9384,440838,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Amber Arlint,REP,4125,0.9357,440838,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Amanda Potter,DEM,4097,0.9294,440838,10,10,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Keri K. Weems,REP,4061,0.9212,440838,9,9,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Morgan Plucker,DEM,3867,0.8772,440838,11,11,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Victor Diego Dominquez,DEM,3858,0.8752,440838,8,8,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,John R. Marquardt,REP,3852,0.8738,440838,8,8,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Kari Hall,DEM,3803,0.8627,440838,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Troy Redler,REP,3797,0.8613,440838,17,17,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Timothy Hanigan,REP,3772,0.8556,440838,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Adam Bair,DEM,3763,0.8536,440838,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Jason Fleming,REP,3751,0.8509,440838,9,9,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Erin Ronayne Rudner,DEM,3629,0.8232,440838,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Bret Swanson,DEM,3530,0.8007,440838,26,26,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Blake Stevens,DEM,3509,0.796,440838,10,10,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Leslie Gerrish,DEM,3440,0.7803,440838,17,17,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Tim Rhead,DEM,3394,0.7699,440838,23,23,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Travis Ismay,REP,3384,0.7676,440838,31,31,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Courtney Gale Enfield,DEM,3353,0.7606,440838,43,43,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Kerry Loudenslager,REP,3349,0.7597,440838,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Nicole Uhre-Balk,DEM,3283,0.7447,440838,9,9,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Dale Bartscher,REP,3262,0.74,440838,9,9,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Kadyn Wittman,DEM,3202,0.7263,440838,11,11,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Austin Wolf,DEM,3066,0.6955,440838,16,16,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Karen Springer,DEM,3021,0.6853,440838,8,8,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,June CopperStad,DEM,2906,0.6592,440838,11,11,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,John Pohlman,REP,2851,0.6467,440838,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Emelia Enquist,DEM,2725,0.6181,440838,56,56,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Austin Brunick,DEM,2695,0.6113,440838,17,17,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Garret M Campbell,DEM,2694,0.6111,440838,16,16,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Neal Tapio,IND,2691,0.6104,440838,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Steve Duffy,REP,2666,0.6048,440838,9,9,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Kimberly Petterson,REP,2539,0.5759,440838,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Ken Jeakins,DEM,2483,0.5632,440838,9,9,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Cully Williams,DEM,2478,0.5621,440838,21,21,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Liz May,REP,2453,0.5564,440838,26,26,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Angi Hanzlik,REP,2419,0.5487,440838,22,22,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Jarod Holcomb,DEM,2357,0.5347,440838,8,8,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Zachary Martin,REP,2317,0.5256,440838,9,9,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Garett Heinz,IND,2290,0.5195,440838,47,47,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Heidi Hora,DEM,2112,0.4791,440838,23,23,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Joni Tschetter,REP,1886,0.4278,440838,11,11,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Jana Hunt,REP,1832,0.4156,440838,31,31,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Andre Zachariahs,REP,1780,0.4038,440838,11,11,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Samuel Hare Sr,IND,1756,0.3983,440838,9,9,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Samuel Froehlke,IND,1646,0.3734,440838,56,56,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Evangeline Poor Bear,IND,1600,0.3629,440838,26,26,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Tracey Quint,LIB,1554,0.3525,440838,9,9,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Eric E. Emery,DEM,1523,0.3455,440838,15,15,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Joe Flood,IND,1471,0.3337,440838,26,26,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Chastity 'Chas' Jewett,DEM,1297,0.2942,440838,31,31,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Lewis J. GrassRope,DEM,1123,0.2547,440838,22,22,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Elizabeth Lone Eagle,IND,1009,0.2289,440838,26,26,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Ron Frederick,REP,839,0.1903,440838,15,15,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Representative,Jay Yohner,IND,755,0.1713,440838,26,26,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Amber Hulse,REP,8708,3.6851,236306,26,26,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Stephanie Sauder,REP,7565,3.2014,236306,56,56,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,John Sjaarda,REP,7111,3.0092,236306,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Jim Mehlhaff,REP,6992,2.9589,236306,19,19,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Randy Deibert,REP,6941,2.9373,236306,11,11,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Kevin D. Jensen,REP,6478,2.7414,236306,23,23,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Sue Peterson,REP,6447,2.7282,236306,10,10,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,David Johnson,REP,6427,2.7198,236306,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Mark Lapka,REP,6267,2.6521,236306,47,47,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Mykala Voita,REP,6190,2.6195,236306,31,31,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Kyle Schoenfish,REP,6177,2.614,236306,23,23,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Glen A. Vilhauer,REP,6113,2.5869,236306,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,William J. Meirose,REP,6105,2.5835,236306,38,38,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Casey Crabtree,REP,6100,2.5814,236306,33,33,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Michael H. Rohl,REP,6026,2.5501,236306,43,43,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Bart Sample,REP,5718,2.4197,236306,16,16,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Ernie Otten,REP,5582,2.3622,236306,16,16,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Sam Marty,REP,5576,2.3597,236306,62,62,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Larry P. Zikmund,REP,5529,2.3398,236306,10,10,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Paul Miskimins,REP,5335,2.2577,236306,17,17,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Tim Reed,REP,5313,2.2484,236306,10,10,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Joy Hohn,REP,5305,2.245,236306,10,10,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Katherine 'Katie' Washnok,REP,5223,2.2103,236306,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Brandon R. Wipf,REP,5124,2.1684,236306,21,21,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Taffy Howard,REP,4943,2.0918,236306,8,8,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Sydney Davis,REP,4926,2.0846,236306,17,17,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Michael Calabrese,DEM,4508,1.9077,236306,8,8,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Liz Larson,DEM,4486,1.8984,236306,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Lauren Nelson,REP,4484,1.8975,236306,8,8,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Greg Blanc,REP,4213,1.7829,236306,9,9,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Chris Karr,REP,4209,1.7812,236306,9,9,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Aaron Matson,DEM,4175,1.7668,236306,9,9,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Bryan J. Breitling,IND,4146,1.7545,236306,16,16,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Clint Hoyer,IND,4099,1.7346,236306,33,33,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Kari Shanard-Koenders,REP,4009,1.6965,236306,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Joe Zweifel,DEM,3877,1.6407,236306,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Christopher Baumgartner,DEM,3448,1.4591,236306,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Helene Duhamel,REP,3317,1.4037,236306,9,9,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Kay Swihart,DEM,3294,1.394,236306,8,8,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Erik Muckey,DEM,3290,1.3923,236306,11,11,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Rebecca Reimer,REP,3187,1.3487,236306,37,37,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Jeff Shelton,DEM,3015,1.2759,236306,9,9,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Shawn Bordeaux,DEM,2706,1.1451,236306,37,37,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Michael Dupic,REP,2676,1.1324,236306,12,12,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Anthony Kathol,REP,2270,0.9606,236306,26,26,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Celestine Stadnick,DEM,2035,0.8612,236306,26,26,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Dan Andersson,DEM,1969,0.8332,236306,31,31,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Brenda Lawrence,REP,1909,0.8079,236306,11,11,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Russell E. Graeff,DEM,1750,0.7406,236306,23,23,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Senator,Peri Pourier,IND,1013,0.4287,236306,26,26,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:16:58 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Treasurer,Melissa Hull,REP,182344,62.4305,292075,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:14:42 PM,2026-11-04T17:17:10+00:00
+SD,state,,State Treasurer,Margaret Kuipers,DEM,109731,37.5695,292075,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:14:42 PM,2026-11-04T17:17:10+00:00
+SD,state,,Trustee,Tim Tooley,NON,101,20.6122,490,1,1,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Trustee,Bradley Gibbens,NON,97,19.7959,490,1,1,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Trustee,Ritchy Griepp,NON,69,14.0816,490,1,1,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Trustee,Tony Fischer,NON,57,11.6327,490,1,1,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Trustee,Ted Duffy,NON,42,8.5714,490,1,1,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Trustee,Julien Gambs,NON,37,7.551,490,1,1,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Trustee,Marion Lewis Culberson,NON,35,7.1429,490,1,1,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Trustee,Douglas Riedel,NON,30,6.1224,490,1,1,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,Trustee,Joshua Whitacre,NON,22,4.4898,490,1,1,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:15:29 PM,2026-11-04T17:17:10+00:00
+SD,state,,United States Representative,Marty Jackley,REP,195570,64.0086,305537,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:14:42 PM,2026-11-04T17:17:10+00:00
+SD,state,,United States Representative,Nicole 'Nikki' Gronli,DEM,109967,35.9914,305537,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:14:42 PM,2026-11-04T17:17:10+00:00
+SD,state,,United States Senator,Mike Rounds,REP,184571,60.5042,305055,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:14:42 PM,2026-11-04T17:17:10+00:00
+SD,state,,United States Senator,Brian L Bengs,IND,120484,39.4958,305055,671,671,South Dakota Secretary of State,https://electionresults.sd.gov/,11/4/2026 5:14:42 PM,2026-11-04T17:17:10+00:00
