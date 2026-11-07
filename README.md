@@ -7,7 +7,7 @@ offices, legislature, ballot measures and, where the feed has them, local contes
 **Live API:** query these results (and every later update) by state, contest or county at
 https://pushbuild.com/apis/election-night-results.html (free key, sign up at https://pushbuild.com/apis/app/).
 
-**Results as of November 6, 2026, 10:02 AM ET.** Counting continues after election night and states certify weeks later; this repository will be
+**Results as of November 6, 2026, 11:32 PM ET.** Counting continues after election night and states certify weeks later; this repository will be
 refreshed after certification. Until then these are unofficial and can change.
 
 | column | meaning |
@@ -40,19 +40,19 @@ refreshed after certification. Until then these are unofficial and can change.
 | Florida | [fl.csv](data/fl.csv) | 406 | 3,063 | Florida Division of Elections |
 | Georgia | [ga.csv](data/ga.csv) | 457 | 5,817 | Georgia Secretary of State |
 | Iowa | [ia.csv](data/ia.csv) | 655 | 5,355 | Iowa election offices via Clarity ENR |
-| Idaho | [id.csv](data/id.csv) | 291 | 2,245 | Idaho Secretary of State |
+| Idaho | [id.csv](data/id.csv) | 292 | 2,289 | Idaho Secretary of State |
 | Illinois | [il.csv](data/il.csv) | 4 | 0 | Candidate list (Wikipedia race summary); official results not posted yet |
 | Indiana | [in.csv](data/in.csv) | 7,407 | 9,114 | Indiana Election Division |
 | Kansas | [ks.csv](data/ks.csv) | 3 | 194 | Candidate list (Wikipedia race summary); official results not posted yet, Harvey County Clarity ENR, Miami County Clarity ENR |
 | Louisiana | [la.csv](data/la.csv) | 2,498 | 3,162 | Louisiana Secretary of State |
 | Massachusetts | [ma.csv](data/ma.csv) | 4 | 0 | Candidate list (Wikipedia race summary); official results not posted yet |
-| Maryland | [md.csv](data/md.csv) | 700 | 1,329 | Maryland State Board of Elections |
+| Maryland | [md.csv](data/md.csv) | 354 | 1,329 | Maryland State Board of Elections |
 | Michigan | [mi.csv](data/mi.csv) | 0 | 386 | Ottawa County Clarity ENR, Roscommon County Clarity ENR |
 | Minnesota | [mn.csv](data/mn.csv) | 648 | 8,285 | Minnesota Secretary of State |
 | Missouri | [mo.csv](data/mo.csv) | 35 | 2,064 | Missouri Secretary of State |
-| North Carolina | [nc.csv](data/nc.csv) | 660 | 5,610 | NC State Board of Elections |
-| Nebraska | [ne.csv](data/ne.csv) | 583 | 0 | Nebraska Secretary of State |
-| New Jersey | [nj.csv](data/nj.csv) | 0 | 940 | Cumberland County Clarity ENR, Essex County Clarity ENR, Passaic County Clarity ENR, Somerset County Clarity ENR |
+| North Carolina | [nc.csv](data/nc.csv) | 660 | 5,614 | NC State Board of Elections |
+| Nebraska | [ne.csv](data/ne.csv) | 625 | 0 | Nebraska Secretary of State |
+| New Jersey | [nj.csv](data/nj.csv) | 0 | 1,316 | Cumberland County Clarity ENR, Essex County Clarity ENR, Passaic County Clarity ENR, Somerset County Clarity ENR |
 | New Mexico | [nm.csv](data/nm.csv) | 362 | 0 | New Mexico Secretary of State |
 | Nevada | [nv.csv](data/nv.csv) | 4 | 0 | Candidate list (Wikipedia race summary); official results not posted yet |
 | New York | [ny.csv](data/ny.csv) | 2 | 0 | Candidate list (Wikipedia race summary); official results not posted yet |
@@ -64,7 +64,7 @@ refreshed after certification. Until then these are unofficial and can change.
 | South Dakota | [sd.csv](data/sd.csv) | 232 | 0 | South Dakota Secretary of State |
 | Texas | [tx.csv](data/tx.csv) | 917 | 17,568 | Texas Secretary of State |
 | Utah | [ut.csv](data/ut.csv) | 290 | 1,187 | Utah Secretary of State |
-| Virginia | [va.csv](data/va.csv) | 113 | 1,875 | Virginia  Secretary of State |
+| Virginia | [va.csv](data/va.csv) | 114 | 1,877 | Virginia  Secretary of State |
 | Vermont | [vt.csv](data/vt.csv) | 540 | 0 | Vermont Secretary of State |
 | Washington | [wa.csv](data/wa.csv) | 468 | 1,810 | Washington Secretary of State |
 | Wisconsin | [wi.csv](data/wi.csv) | 2 | 142 | Candidate list (Wikipedia race summary); official results not posted yet, Dane County Clerk (unofficial), Milwaukee County Election Commission (unofficial) |
